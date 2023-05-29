@@ -1,8 +1,9 @@
 ---
+enabled: true
 title: 葡萄糖酸-6-内蛋
 subtitle: 食品
 layout: default
-modal-id: 1
+modal-id: 3
 date: 2023-05-21
 img: WechatIMG5.jpeg
 thumbnail: WechatIMG5.jpeg
@@ -11,6 +12,5 @@ project-date: 2023
 client: 安徽珞珞食品有限公司
 category: 食品
 description: 葡萄糖酸-6-内蛋 Glucono-Delta-Lacione
-enabled: true
 
 ---
