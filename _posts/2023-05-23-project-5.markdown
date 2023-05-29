@@ -11,6 +11,6 @@ alt: image-alt
 project-date: 2023
 client: 安徽珞珞食品有限公司
 category: 食品
-description: 化学名称: 葡萄糖酸溶液; 分子式:C6H1207; 分子量: 196.16; CAS登录号: 526-95-4; 执行标准: JP7、Tech grade; 规格: 250千克/桶
+description: "化学名称: 葡萄糖酸溶液; 分子式:C6H1207; 分子量: 196.16; CAS登录号: 526-95-4; 执行标准: JP7、Tech grade; 规格: 250千克/桶"
 
 ---
