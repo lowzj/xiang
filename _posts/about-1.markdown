@@ -4,7 +4,7 @@ subtitle: 简介
 layout: default
 modal-id: 1
 date: 2023-05-21
-img: .jpeg
+img: intro-1.jpeg
 thumbnail: intro-1.jpeg
 alt: image-alt
 project-date: 2023

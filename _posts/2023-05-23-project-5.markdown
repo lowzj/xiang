@@ -4,7 +4,7 @@ subtitle: 食品
 layout: default
 modal-id: 1
 date: 2023-05-21 
-img: .jpeg
+img: Gluconic-Acid-Solution.jpeg
 thumbnail: Gluconic-Acid-Solution.jpeg
 alt: image-alt
 project-date: 2023

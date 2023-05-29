@@ -1,5 +1,5 @@
 ---
-title: 葡萄糖酸-6-内蛋 Glucono-Delta-Lacione
+title: 葡萄糖酸-6-内蛋
 subtitle: 食品
 layout: default
 modal-id: 1

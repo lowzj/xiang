@@ -4,8 +4,8 @@ subtitle: 食品
 layout: default
 modal-id: 1
 date: 2023-05-21 
-img: .jpeg
-thumbnail: calcium-glucoante.jpeg
+img: DefoamingAgent.jpeg
+thumbnail: DefoamingAgent.jpeg
 alt: image-alt
 project-date: 2023
 client: 安徽珞珞食品有限公司
