@@ -11,5 +11,6 @@ project-date: April 2014
 client: Start Bootstrap
 category: 食品
 description: 葡萄糖酸-6-内蛋 Glucono-Delta-Lacione
+enabled: true
 
 ---
