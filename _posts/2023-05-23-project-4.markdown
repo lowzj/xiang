@@ -3,7 +3,7 @@ title: 豆腐王
 subtitle: 食品
 layout: default
 modal-id: 1
-date: 2023
+date: 2023-05-21 
 img: .jpeg
 thumbnail: Bean-curd-King.jpeg
 alt: image-alt

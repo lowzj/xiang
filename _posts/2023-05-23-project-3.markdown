@@ -3,7 +3,7 @@ title: 消泡剂 - 豆制品专用
 subtitle: 食品
 layout: default
 modal-id: 1
-date: 2023
+date: 2023-05-21 
 img: .jpeg
 thumbnail: calcium-glucoante.jpeg
 alt: image-alt

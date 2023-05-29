@@ -3,7 +3,7 @@ title: 公司简介
 subtitle: 简介
 layout: default
 modal-id: 1
-date: 2023
+date: 2023-05-21
 img: .jpeg
 thumbnail: intro-1.jpeg
 alt: image-alt

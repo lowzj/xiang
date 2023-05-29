@@ -3,7 +3,7 @@ title: 葡萄糖酸溶液
 subtitle: 食品
 layout: default
 modal-id: 1
-date: 2023
+date: 2023-05-21 
 img: .jpeg
 thumbnail: Gluconic-Acid-Solution.jpeg
 alt: image-alt
