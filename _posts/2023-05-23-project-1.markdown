@@ -3,12 +3,12 @@ title: 葡萄糖酸-6-内蛋 Glucono-Delta-Lacione
 subtitle: 食品
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2023
 img: WechatIMG5.jpeg
 thumbnail: WechatIMG5.jpeg
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
+client: 安徽珞珞食品有限公司
 category: 食品
 description: 葡萄糖酸-6-内蛋 Glucono-Delta-Lacione
 enabled: true

@@ -1,0 +1,16 @@
+---
+title: 葡萄糖酸钙 Calcium Glucoante
+subtitle: 食品
+layout: default
+modal-id: 1
+date: 2023
+img: .jpeg
+thumbnail: calcium-glucoante.jpeg
+alt: image-alt
+project-date: 2023
+client: 安徽珞珞食品有限公司
+category: 食品
+description: 葡萄糖酸钙 Calcium Glucoante
+enabled: true
+
+---

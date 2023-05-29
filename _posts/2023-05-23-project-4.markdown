@@ -1,0 +1,16 @@
+---
+title: 豆腐王
+subtitle: 食品
+layout: default
+modal-id: 1
+date: 2023
+img: .jpeg
+thumbnail: Bean-curd-King.jpeg
+alt: image-alt
+project-date: 2023
+client: 安徽珞珞食品有限公司
+category: 食品
+description: 化学名称: 葡萄糖酸--内醋; 分子式: C6H1006; 分子量: 178.14; CAS登录号:90-80-2; 执行标准: GB7657-2020、FCC、USP、E575; 规格:1kg/袋、25kg/袋
+enabled: true
+
+---

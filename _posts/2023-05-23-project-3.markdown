@@ -1,0 +1,16 @@
+---
+title: 消泡剂 - 豆制品专用
+subtitle: 食品
+layout: default
+modal-id: 1
+date: 2023
+img: .jpeg
+thumbnail: calcium-glucoante.jpeg
+alt: image-alt
+project-date: 2023
+client: 安徽珞珞食品有限公司
+category: 食品
+description: 产品名称: 豆洛洛牌复配豆制品消泡剂; 成分: 碳酸钙、聚二甲基烷、吐温 80、二氧化硅、司盘 60; 执行标准:GB26687-2011; 规格:2000克/袋 5袋/箱
+enabled: true
+
+---
